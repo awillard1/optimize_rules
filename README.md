@@ -9,11 +9,6 @@
 
 ---
 
-## Quick links
-- **Repository:** `awillard1/optimize_rules` (suggested)
-- **Primary script:** `optimize_rules.py`
-- **Recommended license:** MIT (editable — add `LICENSE`)
-
 ---
 
 ## Table of contents
