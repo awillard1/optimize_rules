@@ -166,9 +166,3 @@ Inspired by the Hashcat community and rule authors.
 
 For issues, suggestions, or contributions open a GitHub issue or contact the maintainer via the repository.
 
----
-
-*Generated README — GitHub-friendly layout with badges, TOC, examples, and contributor guidance. If you want, I can also:*
-- *Create a ready-to-commit `LICENSE` (MIT/Apache-2.0)*
-- *Generate a `ci.yml` GitHub Actions skeleton*
-- *Produce a short `CONTRIBUTING.md` and `ISSUE_TEMPLATE`/`PULL_REQUEST_TEMPLATE`*
